@@ -1,8 +1,8 @@
 # Lab03
 
-## Notebook sobre tarefa03
+## Lombriga no Aquário
 
-Nesse notebook contém códigos que consistem em fazer uma lombriga andar e se mover durante um "aquário".
+Nesse repositório contém códigos que consistem em fazer uma lombriga andar e se mover durante um "aquário".
 
 * [Link para o Notebook sobre Lombriga no Aquário](https://github.com/Cicerolibardi/MC322A-1S2021/blob/main/Laborat%C3%B3rios/lab03/lab-lombriga-ra168810.ipynb)
 
