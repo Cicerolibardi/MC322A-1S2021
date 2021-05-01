@@ -32,6 +32,6 @@ public class AppRestaUm {
     }
 
     public static void main(String[] args){
-        String[] vetorTabuleiros = executaJogo("C:/Users/Cícero/Downloads/arq001.csv");
+        String[] vetorTabuleiros = executaJogo("Caminho para o arq001.csv");
     }
 }
